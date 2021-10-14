@@ -16,22 +16,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is an example of a portfolio that someone might assemble to demonstrate the skills they have developed in VIS 2128. I have created this page using RMarkdown. There are fancier tools out there for creating and hosting webpages, and you are welcome to use any of those if you like. The advantage of this approach is that you can create your webpage directly from RStudio.x
 
-Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
+# Cambridge, MA
 
-* Displaying multiple vector layers on the same map
-* Calculating and displaying relationships among point and polygon layers based on distance
-* Aggregating point data to a layer of polygons
-* Calculating and displaying accessibility, based on travel time
-* Converting between raster layers and vector layers
-* Displaying raster data on a map
-* Georeferencing a raster image
-* Displaying data on an interactive map
+## Park Lights and Open Space
 
-# Maps of Boston
-Here are two maps of Boston. I might include some text here about this set of maps.
 
-## Interactive Map
-This interactive map demonstrates the following skills: 
+This map demonstrates the following skills: 
 
 * Displaying data on an interactive map
 
